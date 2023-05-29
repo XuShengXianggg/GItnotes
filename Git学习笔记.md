@@ -354,7 +354,3 @@ doc/*.txt
   git config --global --unset http.proxy
   ~~~
 
-  
-
-
-
