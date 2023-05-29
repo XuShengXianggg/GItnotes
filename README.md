@@ -1,2 +1,3 @@
-# GItnotes
-This warehouse is used to store notes when learning Git version control tools.
+# Gitnotes
+
+本项目用于存储Git版本控制工具笔记。
